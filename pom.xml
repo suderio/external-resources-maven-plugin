@@ -1,10 +1,9 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>net.technearts</groupId>
     <artifactId>external-resources-maven-plugin</artifactId>
-    <version>0.1.2-SNAPSHOT</version>
+    <version>0.1.2</version>
     <packaging>maven-plugin</packaging>
 
     <name>External Resources Maven Plugin</name>
@@ -21,7 +20,7 @@
         <connection>scm:git:http://github.com/suderio/external-resources-maven-plugin.git</connection>
         <developerConnection>scm:git:https://github.com/suderio/external-resources-maven-plugin.git
         </developerConnection>
-        <tag>0.1.1</tag>
+        <tag>0.1.2</tag>
     </scm>
 
     <issueManagement>
